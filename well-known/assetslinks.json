@@ -1,0 +1,10 @@
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.makan.deep_linking_flutter",
+            "sha256_cert_fingerprints": ["E1:3F:E5:5E:48:BC:BC:02:25:85:25:45:86:50:14:13:08:28:37:EE:CD:5B:97:14:7E:E0:B3:10:D6:7A:E6:E4"]
+        }
+    }
+]   
